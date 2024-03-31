@@ -61,7 +61,7 @@ You can control the website through environment variables.
 
 | Name | Description | Required |
 | --- | --- | --- |
-| `GEMINI_API_KEY` | Your API Key for GEMINI. You can get it from [here](https://makersuite.google.com/app/apikey).| **✔** |
+| `GEMINI_API_KEY` | Your API Key for GEMINI. You can get it from [here](https://aistudio.google.com/app/apikey).| **✔** |
 | `API_BASE_URL` | Custom base url for GEMINI API. Click [here](https://github.com/babaohuang/GeminiProChat?tab=readme-ov-file#solution-for-user-location-is-not-supported-for-the-api-use) to see when to use this. | ❌ |
 | `HEAD_SCRIPTS` | Inject analytics or other scripts before `</head>` of the page | ❌ |
 | `PUBLIC_SECRET_KEY` | Secret string for the project. Use for generating signatures for API calls | ❌ |
