@@ -92,7 +92,7 @@ You can control the website through environment variables.
     pnpm install
    ```
 
-2. Copy the `.env.example` file, then rename it to `.env`, and add your [`GEMINI_API_KEY`](https://makersuite.google.com/app/apikey) to the `.env` file.
+2. Copy the `.env.example` file, then rename it to `.env`, and add your [`GEMINI_API_KEY`](https://aistudio.google.com/app/apikey) to the `.env` file.
 
    ```bash
     GEMINI_API_KEY=AIzaSy...
